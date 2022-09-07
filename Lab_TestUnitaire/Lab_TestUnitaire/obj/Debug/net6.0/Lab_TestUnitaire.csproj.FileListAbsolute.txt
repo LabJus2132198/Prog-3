@@ -1,0 +1,15 @@
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\bin\Debug\net6.0\Lab_TestUnitaire.exe
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\bin\Debug\net6.0\Lab_TestUnitaire.deps.json
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\bin\Debug\net6.0\Lab_TestUnitaire.runtimeconfig.json
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\bin\Debug\net6.0\Lab_TestUnitaire.dll
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\bin\Debug\net6.0\Lab_TestUnitaire.pdb
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\obj\Debug\net6.0\Lab_TestUnitaire.csproj.AssemblyReference.cache
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\obj\Debug\net6.0\Lab_TestUnitaire.GeneratedMSBuildEditorConfig.editorconfig
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\obj\Debug\net6.0\Lab_TestUnitaire.AssemblyInfoInputs.cache
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\obj\Debug\net6.0\Lab_TestUnitaire.AssemblyInfo.cs
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\obj\Debug\net6.0\Lab_TestUnitaire.csproj.CoreCompileInputs.cache
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\obj\Debug\net6.0\Lab_TestUnitaire.dll
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\obj\Debug\net6.0\refint\Lab_TestUnitaire.dll
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\obj\Debug\net6.0\Lab_TestUnitaire.pdb
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\obj\Debug\net6.0\Lab_TestUnitaire.genruntimeconfig.cache
+M:\InterfaceEtBd\Lab_TestUnitaire\Lab_TestUnitaire\obj\Debug\net6.0\ref\Lab_TestUnitaire.dll
